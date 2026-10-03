@@ -59,6 +59,6 @@ Al primer SSH, escribe `yes` para aceptar la huella del servidor y luego introdu
 ## Capturas
 
 - [Diagrama objetivo](evidencias/capturas/01-diagrama-objetivo-infra3.png)
-- [Topología PNETLab](evidencias/capturas/02-topologia-pnetlab-infra3.png)
+
 
 Las capturas documentan el diseño y el montaje; las salidas descritas arriba se verificaron en el laboratorio, pero no se presentan como capturas de pantalla.
